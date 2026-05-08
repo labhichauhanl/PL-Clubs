@@ -26,9 +26,8 @@ A modern and responsive Premier League Clubs showcase website built using HTML5 
 │    ├── ChelseaFC.png
 │    ├── ManchesterCity.png
 │    └── ...
-📸 Preview
 
-Website Contains
+# Website Contains
 1. Hero banner section
 2. Premier League clubs cards
 3. Interactive buttons
